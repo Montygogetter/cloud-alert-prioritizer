@@ -1,0 +1,11 @@
+message,system,timestamp,historical_severity,predicted_severity,priority_score,FOL_decision
+Email delivery delayed,backend,2025-05-23 03:19:38,critical,critical,-1,ESCALATE: Notify on-call engineer
+Email delivery delayed,backend,2025-05-19 19:03:38,informational,critical,-1,ESCALATE: Notify on-call engineer
+Email delivery delayed,backend,2025-05-22 02:39:38,critical,critical,-1,ESCALATE: Notify on-call engineer
+User login failed multiple times,database,2025-05-30 06:58:38,critical,critical,-1,ESCALATE: Notify on-call engineer
+Email delivery delayed,database,2025-05-24 19:11:38,critical,critical,-1,ESCALATE: Notify on-call engineer
+Email delivery delayed,network,2025-05-28 07:22:38,critical,critical,-1,REVIEW: Manual inspection required
+User login failed multiple times,backend,2025-05-20 00:11:38,informational,critical,-1,ESCALATE: Notify on-call engineer
+User login failed multiple times,network,2025-05-22 09:14:38,false_positive,critical,-1,REVIEW: Manual inspection required
+User login failed multiple times,network,2025-05-25 20:24:38,informational,critical,-1,REVIEW: Manual inspection required
+User login failed multiple times,backend,2025-05-19 19:54:38,false_positive,critical,-1,ESCALATE: Notify on-call engineer
